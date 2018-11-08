@@ -1,0 +1,38 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "none",
+    "editor.minimap.showSlider": "always",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": true
+    },
+    "editor.showFoldingControls": "always",
+    "telemetry.enableTelemetry": false,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 12,
+    "editor.parameterHints": false,
+    "window.zoomLevel": 0,
+    "colorize.languages": [
+        "javascript",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "pcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg"
+    ],
+    "javascript.validate.enable": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.renderIndentGuides": false,
+    "editor.cursorBlinking": "expand",
+    "typescript.experimental.syntaxFolding": true,
+    "prettier.requireConfig": true,
+    "[xml]": {},
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+}
